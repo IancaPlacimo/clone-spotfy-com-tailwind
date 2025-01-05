@@ -8,6 +8,10 @@ module.exports = {
       colors: {
         bgblack: '#121212',
       },
+
+      letterSpacing: {
+        2: '0.2em',
+      }
     },
   },
   plugins: [
