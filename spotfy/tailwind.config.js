@@ -7,6 +7,8 @@ module.exports = {
     extend: {
       colors: {
         bgblack: '#121212',
+        grayspotfy: '#212121',
+
       },
 
       letterSpacing: {
